@@ -1,0 +1,50 @@
+#assign{
+	width: 700px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.picture{
+	width:300px;
+	border-radius: 8px;
+}
+
+#right{
+	background: url(https://img1.wsimg.com/isteam/ip/5ac2fe1d-7893-4872-8a45-b36338805af4/afrozilla%20site.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#table{
+	background: url(tablebg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.same{
+	font-family: "Trebuchet MS", "Times", "Serif";
+}
+
+#tabletitle{
+}
+
+.line{
+	height: 3px;
+	width: 100px;
+	background-color: black;
+	border: none;
+}
+
+#disclaimer{
+	font-family: "Trebuchet MS", "Times", "Serif";
+	font-size: 10px;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+	width: 300px;
+}
